@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<variantrow>
+  <rowentry>
+    <name>DomainListURL</name>
+    <type>string</type>
+    <value>http://info.codelathe.com/domainlist/domainlist.xml</value>
+  </rowentry>
+  <rowentry>
+    <name>PluginListURL</name>
+    <type>string</type>
+    <value>http://patch.codelathe.com/tonido/live/pluginlist/armv6l-rpi/pluginlist.xml</value>
+  </rowentry>
+  <rowentry>
+    <name>RSSURL</name>
+    <type>string</type>
+    <value>http://info.codelathe.com/news/rssfeed.xml</value>
+  </rowentry>
+  <rowentry>
+    <name>UsageStatsURL</name>
+    <type>string</type>
+    <value>http://info.codelathe.com/stats/tonidousagestats.php</value>
+  </rowentry>
+  <rowentry>
+    <name>RelayServiceURL</name>
+    <type>string</type>
+    <value>https://s1.codelathe.com/api/relay/getrelayall.php</value>
+  </rowentry>
+   <rowentry>
+    <name>DSBaseURL</name>
+    <type>string</type>
+    <value>https://s1.codelathe.com/api/ds/tonidods.php</value>
+  </rowentry>
+</variantrow>

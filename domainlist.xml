@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<variantrow>
+  <rowentry>
+    <name>domain1</name>
+    <type>string</type>
+    <value>tonidoid.com</value>
+  </rowentry>
+</variantrow>

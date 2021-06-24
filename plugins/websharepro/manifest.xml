@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<TonidoManifest>
+	<Meta>
+		<Name>webshare</Name>
+		<DisplayName>Webshare</DisplayName>
+		<BaseURL>http://patch.codelathe.com/tonido/live/update/plugins/websharepro/armv6l-rpi/</BaseURL>
+		<HomePageURL>http://www.tonido.com/app/websharepro</HomePageURL>
+		<Version>10.86.0.29483</Version>
+		<CompatibleVersion>\d+\.\d+\.\d+\.\d+</CompatibleVersion>
+		<OS>Linux</OS>
+		<OSVersion></OSVersion>
+		<Arch>armv6l</Arch>
+		<Vendor>CodeLathe</Vendor>
+		<Description>Share your files via My Shared Files</Description>
+		<Critical>false</Critical>
+		<License>Free</License>
+		<AppURL></AppURL>
+		<Authentication></Authentication>
+		<Runtime>native</Runtime>
+	</Meta>
+	<Files>
+		<File Checksum="a155a52a7b5804e1c7794eb6aef6b676" Path="icon.gif" Executable="0">icon.gif</File>
+		<File Checksum="a8cee02c3c10dd35da647f4c03660bfe" Path="iconbg.gif" Executable="0">iconbg.gif</File>
+		<File Checksum="638e8fa43da49333c0a75b58fa8c75a6" Path="libwebsharepro.so" Executable="1">libwebsharepro.so</File>
+		<File Checksum="13ad2e21c3ff5f4a71f765bf901316e3" Path="resource.zip" Executable="0">resource.zip</File>
+		<File Checksum="48c77343224ec5c4c32be41d44d2f179" Path="translations.zip" Executable="0">translations.zip</File>
+		<File Checksum="459797fce6f71e709b624e7be052cedf" Path="websharepro.zip" Executable="0">websharepro.zip</File>
+	</Files>
+	<SharedLibraries />
+	<Actions />
+	<SignatureData>
+		<SignatureIndex>1</SignatureIndex>
+		<SignatureValue>7C8537A49090233F4F499E22692C5CE3700D285D68403C9DB0929333859B49BF2ACEE73E8CC7E17A3FF2F442FEA61D291E3B85F69056464381ACE5FA08A24D839B67A24468C8EF9E4F4FF4BFFEC46AA0EE833A4AB391B8D08DED42E6465F5E6101475B01E4CEA8CBB458C4019171EE952C49FDF5BA48A13D324C92A1A39937084C3835E1C5B1C81940B0A5C01399D7B60193A2CF90EC352E35B5C4895B98F4660F2F286E3D09544F29CEDFBF0C701706A760E5C2DAC737B0F6655340FC2E55F377CEC7510A19300CDA2D27DCE2C5C0049E099891B6DF7353920761312F81B7E3243F122B3A06A359DDE04950493E4046B03182970302303C7C016DADFE7EE187</SignatureValue>
+	</SignatureData>
+	<ActionSignatureData>
+		<SignatureIndex>1</SignatureIndex>
+		<SignatureValue>83887478E8B98D98CB130D9FFFAC4CA52C6E3AB26043C5B71F0689D9433F7860FB53002D1ABF9D37D7FD890BFE6092535D8F3FB263384EE49213B45154D628B4D879A5E5FEEFF063E19E4D5BD9BAD6BEE8A78B50155D7891AF674F95A28B10B467907ED3D1E85C11F0DF0832ED2CF129FCEBEE7CB754799BD2D67896CD7BE3589C4DBCFD55F23201E46741FC72ABE6464801BFDA2463178D5C518416A56E64D4C14EC67814E3644D1043ACCBA8212D1259142E5F0B699CB905B5DA0243A0A31A4C8EB00D61DB7AB33B1FAB3CBAAE09D6919AAA946E5C9098EEBA46611BF4FC7550094B0DA1F2FEAEB0FB21D1046E90B50310C83EB6E8C7B467207FD950DCCCE2</SignatureValue>
+	</ActionSignatureData>
+	<SignatureDataV2>
+		<SignatureIndex>1</SignatureIndex>
+		<SignatureValue>6badba4e7547ce4c18eba538dc243ec39e5b9ea94fa21496898ec419f6ab823eb8723a1353de2c452476aeea0dbfecdc5551df2fb4f8949cde8598b49ff472ab5f7fb5ad4c6491a14106c1dfa685436f62c16aaf8a524559933d4f5d95b8f7fbd5af7eb048807afc3cb819c5a4b35857218e821a4b2b5a8c1430dad3016fa64961d876c7d7a229cdd64966514cf864e8ff2f9591b88009797f0bf1edb4467bf2380ce7b61a5d481c892b1784c0ab2c1d7dfa48831ce2f134075296fd07862449d493dcb602fcb112180591a06d61dcd101780f887c3057ca4d44fb1d407c295298af29212506bf59bb55d0160d2d053e3eb580aca91061de8737d6173409bb71</SignatureValue>
+	</SignatureDataV2>
+	<ActionSignatureDataV2>
+		<SignatureIndex>1</SignatureIndex>
+		<SignatureValue>6fe6db34497b1d6b61a62d099edb4e54fb3cd0cf762af859a1c1b86b23de5433e3072d2e759f7152ef4876efb3142ff2086a99cc6a31733da18bd9c665e2a28821a5da77ab7200c5b52f78780fd18bbc9fae828fc5ce33e645b0f0c4d8cd2db279073154327f1114cd7eb4b43dbddc550415b9bda9d94b37f4a4f4b93415065d0444b64bdf33f7163b7f83158e4ae6a9de3ba5b2f9a3001ad9f20b48649dbe39043a79cd491a81106927e5cd936a1c7ea1089bc7c1c5cc7ab38f3e85e5e1a9921ae4b0bbd08e6348a54ee01b99d807c1c0e9ad1dd4b944ab789e4261124ee09801f7605c4165810025ec24bb03b68d1740d24ffba2c85cf3479135993bcc2cf3</SignatureValue>
+	</ActionSignatureDataV2>
+</TonidoManifest>
